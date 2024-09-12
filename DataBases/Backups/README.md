@@ -2,7 +2,7 @@
 
 
  En el apartado de backups se describe las prácticas y políticas utilizadas para asegurar la integridad y disponibilidad de los datos críticos del proyecto en caso de pérdida accidental o falla del sistema. Esta sección abarca desde la frecuencia de las copias de seguridad hasta los procedimientos de restauración, asegurando así la continuidad del proyecto y la protección contra la pérdida de datos.
-
+holaaaaaaaaa
  
 
 ## Estructura de Archivos
